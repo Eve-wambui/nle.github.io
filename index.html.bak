@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home|NewLevelEssentials</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<style type="text/css">
+	body{
+		padding: 10px;
+		border-radius: 5px;
+		border: 3px solid gray;
+		background-color: #FAEBD7;
+	}
+	ul{
+		list-style-type: none;
+	}
+	li a{
+		padding: 20px;
+		border-radius: 3px;
+		margin-top: 30px;
+		}
+		h1, h2{
+			font-family: Jokerman;
+			font-size: 40px;
+			color: blue;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<nav class="navbar navbar-default">
+		<div class="container-fluid">
+		<div class="navbar-header">
+		<a href="" class="navbar-brand">NewLevelEssentials</a>
+			</div>
+			<ul class="navbar-nav">
+				<li class="active"><a href="#">Home</a></li>
+				<li><a href="#">AboutUs</a></li>
+				<li><a href="#">ContactUs</a></li>
+				<li><a href="#">Login/SignUp</a></li>
+			</ul>
+		</div>
+	</nav>
+	<hr>
+<h1>Welcome to New Level Essentials</h1>
+		<h2>Elevate Your Style</h2>
+		<hr>
+		
+</body>
+</html>
